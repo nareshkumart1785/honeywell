@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>clickButton</name>
+   <tag></tag>
+   <elementGuidId>c3c2233f-893f-4c23-98d6-c2fd06d6a375</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;findAirlineMain&quot;]/div[2]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;findAirlineMain&quot;]/div[2]/div[2]/button</value>
+      <webElementGuid>61adab01-c7cc-4947-bc4b-751f043b1df8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

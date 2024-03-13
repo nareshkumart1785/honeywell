@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Hyder</name>
+   <tag></tag>
+   <elementGuidId>8e519961-8963-472f-b0df-8dbb9d8dfa2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.autocomplete-suggestion.autocomplete-selected > strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[1]/following::strong[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>95ce90f1-026b-4471-8710-bf330cfcaf20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hyder</value>
+      <webElementGuid>854bec1a-a700-4cf6-8883-ff11d9136151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;responsive-full tablesaw-enhanced&quot;]/body[1]/div[@class=&quot;autocomplete-suggestions&quot;]/div[@class=&quot;autocomplete-suggestion autocomplete-selected&quot;]/strong[1]</value>
+      <webElementGuid>07c448c3-7f0f-4eca-a73d-28d54dd69003</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[1]/following::strong[1]</value>
+      <webElementGuid>3348bc30-305c-47d8-8168-8d065319cdce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hyder'])[2]/preceding::strong[1]</value>
+      <webElementGuid>80dfbcfa-96e6-49b0-be71-53073757f670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hyder']/parent::*</value>
+      <webElementGuid>10a7fd89-91e4-4498-8884-b2178e4bdbb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/strong</value>
+      <webElementGuid>e9758f4b-6030-4feb-8a7f-85e97b99ff4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Hyder' or . = 'Hyder')]</value>
+      <webElementGuid>0705264b-32c8-4db4-8080-4507c06ad7c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
